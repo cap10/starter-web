@@ -17,3 +17,9 @@ This is how you deploy the application
 ## Testing 
 
 This is what you do to test
+
+## Server Requirements
+
+You need all this to get it running
+64 Gig Ram
+! keyboard
