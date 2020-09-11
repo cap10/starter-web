@@ -23,3 +23,7 @@ This is what you do to test
 You need all this to get it running
 64 Gig Ram
 ! keyboard
+
+### Copyright
+
+Copywhirt of Mapfunde Technologies
