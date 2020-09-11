@@ -27,3 +27,7 @@ You need all this to get it running
 ### Copyright
 
 Copywhirt of Mapfunde Technologies
+
+### How to contribute
+
+Please fork the repo and issue pull requests to contribute
