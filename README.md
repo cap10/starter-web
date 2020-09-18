@@ -2,6 +2,10 @@
 
 This repository is for showing how Git and GitHub work
 
+## Prerule
+
+Adding a line for rebasing examples
+
 ## Introduction
 
 This is an introduction.  This was done for the purposes of learning chete
