@@ -5,6 +5,7 @@ This repository is for showing how Git and GitHub work
 ## Prerule
 
 Adding a line for rebasing examples
+This is another change from myfeature branch 
 
 ## Introduction
 
