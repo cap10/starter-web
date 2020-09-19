@@ -36,3 +36,7 @@ Copywright of Mapfunde Technologies, All rights reserved
 ### How to contribute
 
 Please fork the repo and issue pull requests to contribute
+
+### How to contact the developer
+
+For help please email me on takaiteyi@gmail.com
