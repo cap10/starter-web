@@ -31,7 +31,7 @@ You need all this to get it running
 
 ### Copyright
 
-Copywhirt of Mapfunde Technologies
+Copywright of Mapfunde Technologies, All rights reserved
 
 ### How to contribute
 
